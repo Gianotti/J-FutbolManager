@@ -33,7 +33,7 @@
 
 # Recuperatorio 
 
-####Nuestro amigo Guillermo quiere realizar una fiesta para festejar su cumpleaños,
+#### Nuestro amigo Guillermo quiere realizar una fiesta para festejar su cumpleaños,
 #### pero tiene tantos amigos que necesita dividir su fiesta ya que solo puede invitar un maximo de 10 personas por evento,
 #### Agregar lo necesario para poder dar de alta Amigos y poder vincularlos a la lista de invitados al cumpleanitos.  
 ![alt text](der2.jpg "Title")
