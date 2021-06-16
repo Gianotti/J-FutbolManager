@@ -38,11 +38,9 @@
 #### Agregar lo necesario para poder dar de alta Amigos y poder vincularlos a la lista de invitados al cumpleanitos.  
 ![alt text](der2.jpg "Title")
 
-
-
 # 2do Parcial
 
-#### Llego la hora de pagar la fiesta y nuestro querido Guillermo nos cobra $25.000 
+#### Llego la hora de pagar la fiesta y nuestro querido Guillermo nos cobra $25.000
 #### el problema es que nadie trajo Pesos, solo Dolares y Euros asique debemos emitir un listado con la conversion acorde a los participantes.
 ```
 [
